@@ -9,7 +9,7 @@ I am studying Python for the fourth year, I had experience in C# writing games.
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [zipxxx@bk.ru](mailto:zipxxx@bk.ru)
 * 🧠  I'm learning "The code of the future" 21.10.22/21.10.23
-* ⚡  Discord - [_ryze__](https://discordapp.com/users/449971541103345664/)
+* ⚡  Discord - [Hesus](https://discordapp.com/users/449971541103345664/)
 * 📄  Telegram - [ryzeoner](https://t.me/ryzeoner)
  
 ### Skills
