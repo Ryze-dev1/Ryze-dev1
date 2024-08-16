@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryze
 ============================================================================================================================
 
-A junior developer. I write Discord bots.
+A junior developer. I write Discord / Telegram bots.
 -----------------------------------------
 
 I am studying Python for the fourth year, I had experience in C# writing games.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [zipxxx@bk.ru](mailto:zipxxx@bk.ru)
-* 🧠  I'm learning Код-будущего 21.10.22/xx.xx.23
-* ⚡  Discord - Ryze#2677
-
+* 🧠  I'm learning "The code of the future" 21.10.22/21.10.23
+* ⚡  Discord - [_ryze__](mailto:https://discordapp.com/users/449971541103345664/)
+* 📄  Telegram - [ryzeoner](mailto:https://t.me/ryzeoner)
+ 
 ### Skills
 
 <p align="left">
